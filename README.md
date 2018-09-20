@@ -1,4 +1,4 @@
-# Sonoff TH01 and TH16 lua scripts
+# Pairing Sonoff TH01 and TH16 lua scripts for Home Automation
 
 ## About
 
